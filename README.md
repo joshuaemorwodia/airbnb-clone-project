@@ -41,3 +41,68 @@ A user-friendly design is crucial in a booking system to reduce friction during 
 git add README.md
 git commit -m "Add UI/UX Design Planning section to README with design goals and page breakdown"
 git push
++----------------------------------------------------------+
+| Header: Logo | Search Bar | Filters | Profile Icon       |
++----------------------------------------------------------+
+| Sidebar (optional): Filters                              |
+|                                                          |
+| [Property Card]  [Property Card]  [Property Card]        |
+| [Image + Title]  [Image + Title]  [Image + Title]        |
+| [Price + Rating] [Price + Rating] [Price + Rating]       |
+|                                                          |
++----------------------------------------------------------+
+| Footer                                                   |
++----------------------------------------------------------+
++----------------------------------------------------------+
+| Header: Logo | Search | Booking Button | Profile         |
++----------------------------------------------------------+
+| [Image Gallery Carousel]                                 |
+|                                                          |
+| Title: Cozy 2-Bedroom Apartment                          |
+| ★ 4.8 (120 reviews) · Hosted by John                     |
+|                                                          |
+| Description                                              |
+| Amenities (Icons)                                        |
+| Availability Calendar                                    |
+|                                                          |
+| --- Side Booking Panel ---                               |
+| Price per night                                          |
+| Date Picker                                              |
+| Guest Selector                                           |
+| Total Price                                              |
+| [Book Now Button]                                        |
++----------------------------------------------------------+
++----------------------------------------------------------+
+| Header: Logo | Back to Listing | Help                    |
++----------------------------------------------------------+
+| [Booking Summary Panel]       | [Payment Form Panel]     |
+| - Listing image               | - Name, email            |
+| - Dates & Guests              | - Card info (Visa/MC)    |
+| - Price breakdown             | - Billing address        |
+| - Total cost                  | - Confirm button         |
++----------------------------------------------------------+
+| Footer: Security, Terms, etc.                            |
++----------------------------------------------------------+
+### 🧩 Wireframe Layouts
+
+Below is a high-level wireframe plan for the core pages of the application. These are intended to guide the UI design before full development or mockups in a tool like Figma.
+
+#### 1. Property Listing View
+
+
+- Responsive grid layout
+- Search bar and filters for refining listings
+- Property cards with key details
+
+#### 2. Listing Detailed View
+
+
+- Emphasizes visuals and booking info
+- Availability calendar and full listing details
+
+#### 3. Simple Checkout View
+
+
+- Clean, focused two-column layout
+- Summary and secure payment section
+![Wireframe Screenshot](URL_TO_IMAGE)
