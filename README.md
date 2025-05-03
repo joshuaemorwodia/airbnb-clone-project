@@ -115,3 +115,6 @@ git push
 git add README.md
 git commit -m "Add UI Component Patterns section with Navbar, Property Card, and Footer descriptions"
 git push
+git add README.md
+git commit -m "Add UI Component Patterns section with Navbar, Property Card, and Footer descriptions"
+git push
