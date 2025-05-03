@@ -106,3 +106,6 @@ Below is a high-level wireframe plan for the core pages of the application. Thes
 - Clean, focused two-column layout
 - Summary and secure payment section
 ![Wireframe Screenshot](URL_TO_IMAGE)
+git add README.md
+git commit -m "Add Figma color styles, typography, and design property explanation to UI/UX Design Planning section"
+git push
