@@ -109,3 +109,6 @@ Below is a high-level wireframe plan for the core pages of the application. Thes
 git add README.md
 git commit -m "Add Figma color styles, typography, and design property explanation to UI/UX Design Planning section"
 git push
+git add README.md
+git commit -m "Add section for Project Roles and Responsibilities outlining team member roles and their contributions"
+git push
