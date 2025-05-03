@@ -112,3 +112,6 @@ git push
 git add README.md
 git commit -m "Add section for Project Roles and Responsibilities outlining team member roles and their contributions"
 git push
+git add README.md
+git commit -m "Add UI Component Patterns section with Navbar, Property Card, and Footer descriptions"
+git push
